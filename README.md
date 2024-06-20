@@ -1,3 +1,5 @@
+Creating a calculator using React.js involves building a user interface that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. React.js is a JavaScript library for building user interfaces, and its component-based architecture makes it ideal for creating interactive and reusable UI components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
